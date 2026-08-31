@@ -113,6 +113,7 @@ Open-source tools and libraries for WhatsApp development.
 - [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) — WhatsApp Web API client.
 - [OpenWA](https://github.com/open-wa/wa-automate-nodejs) — Automation toolkit for WhatsApp.
 - [Venom Bot](https://github.com/orkestral/venom) — WhatsApp automation framework.
+- [Waxum](https://github.com/imtaqin/waxum) — MIT-licensed WhatsApp gateway in Rust, shipped as a single binary with a REST API and webhooks.
 - [Botpress](https://github.com/botpress/botpress) — Open-source conversational AI platform.
 - [Rasa](https://github.com/RasaHQ/rasa) — Open-source conversational AI framework.
 
