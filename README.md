@@ -120,7 +120,8 @@ Open-source tools and libraries for WhatsApp development.
 - [Waxum](https://github.com/imtaqin/waxum) — MIT-licensed WhatsApp gateway in Rust, shipped as a single binary with a REST API and webhooks.
 - [Botpress](https://github.com/botpress/botpress) — Open-source conversational AI platform.
 - [Rasa](https://github.com/RasaHQ/rasa) — Open-source conversational AI framework.
-
+* [WhatsApp Auto-Responder](https://github.com/Prince-nebhwani/WhatsApp-Auto-Responder) - Privacy-first Android auto-responder powered by Google Gemini AI with 0% ban risk.
+  
 ## Learning Resources
 
 Documentation, tutorials, guides, and educational materials.
